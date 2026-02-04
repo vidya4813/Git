@@ -1,4 +1,4 @@
 This is demo file
 Github sending for git pull by local system
 Github sending for git fetch by local system
-Github sending for git merge by local system
+Github sending for git merge by local system.
